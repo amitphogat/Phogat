@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+import random
+
+games=""
+try:
+    games=int(input("Enter Any Number"))
+except:
+    print("Integer Please!!!")
+    
+for game in range(0,games):
+    pick = random.randint(1,25)
+    guess = None
+    attempts = 0
+    
+    if(pick!=guess):
+        try:
+            guess=int(input("Enter other Number"))
+        except:
+            print("Please Enter Valid Integer")
+    if(guess!=pick):
+        attempts = attempts + 1
+        if(guess > pick):
+            print("TOO HIGH")
+        else:
+            print("VERY LOW")
+    else:
+        print("Right and You took %s attempts",attempts)
+
+
+# In[ ]:
+
+
+
+
