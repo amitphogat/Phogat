@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="29.2.9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2183" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1762" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -46,32 +46,36 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Dataset Preparation" vertex="1">
           <mxGeometry height="51.176470588235304" width="340" x="15" y="23.030690537084404" as="geometry" />
         </mxCell>
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-48" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c_vY_Ay8iBE_EW4T-Xc7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;" target="c_vY_Ay8iBE_EW4T-Xc7-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Driver Mutations&lt;/b&gt;&lt;div&gt;Source: COSMIC v97&lt;/div&gt;" vertex="1">
-          <mxGeometry height="83.95" width="160" x="14" y="86.05" as="geometry" />
-        </mxCell>
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-49" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c_vY_Ay8iBE_EW4T-Xc7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;" target="c_vY_Ay8iBE_EW4T-Xc7-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="83.95" width="160" x="20" y="180" as="geometry" />
         </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;Neutral Mutations&lt;/b&gt;&lt;div&gt;Source: ClinVar, dbSNP, HuVarBase, dbCPM&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="170" x="184" y="85" as="geometry" />
+          <mxGeometry height="85" width="170" x="190" y="178.95" as="geometry" />
         </mxCell>
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-50" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c_vY_Ay8iBE_EW4T-Xc7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;" target="c_vY_Ay8iBE_EW4T-Xc7-46">
+        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-54" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c_vY_Ay8iBE_EW4T-Xc7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c_vY_Ay8iBE_EW4T-Xc7-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DNA-binding proteins (UniProt)" vertex="1">
-          <mxGeometry height="48.78" width="330" x="20" y="211" as="geometry" />
+        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-55" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="159" />
+              <mxPoint x="275" y="159" />
+            </Array>
+            <mxPoint x="185" y="137.77999999999997" as="sourcePoint" />
+            <mxPoint x="275" y="177.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DNA-binding proteins from UniProt" vertex="1">
+          <mxGeometry height="48.78" width="330" x="20" y="90" as="geometry" />
         </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Non-Redundant Dataset" vertex="1">
           <mxGeometry height="48.78" width="330" x="20" y="317" as="geometry" />
         </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-51" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" value="Removing Redundancy" vertex="1">
-          <mxGeometry height="30" width="156" x="20" y="270" as="geometry" />
+          <mxGeometry height="30" width="156" x="-130" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-53" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="CD-HIT" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
+        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-53" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="CD-HIT" vertex="1">
+          <mxGeometry height="30" width="70" x="290" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
