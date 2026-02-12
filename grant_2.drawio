@@ -37,7 +37,7 @@
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-35" edge="1" parent="1" source="VJQFuuiHGWi6PAnYzEHb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VJQFuuiHGWi6PAnYzEHb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJQFuuiHGWi6PAnYzEHb-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&amp;nbsp;Major Cancer types Dataset" vertex="1">
+        <mxCell id="VJQFuuiHGWi6PAnYzEHb-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&amp;nbsp;Cancer types Dataset" vertex="1">
           <mxGeometry height="50" width="260" x="254" y="230" as="geometry" />
         </mxCell>
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-41" edge="1" parent="1" source="VJQFuuiHGWi6PAnYzEHb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VJQFuuiHGWi6PAnYzEHb-23" value="">
@@ -76,7 +76,7 @@
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=16;" value="Structure Based Features" vertex="1">
           <mxGeometry height="60" width="100" x="552.5" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="VJQFuuiHGWi6PAnYzEHb-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Physicochemical,&lt;div&gt;PSSM,&lt;/div&gt;&lt;div&gt;Conservation scores,&amp;nbsp;&lt;/div&gt;&lt;div&gt;PLM embeddings&lt;/div&gt;" vertex="1">
+        <mxCell id="VJQFuuiHGWi6PAnYzEHb-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Physicochemical,&lt;div&gt;PSSM,&lt;/div&gt;&lt;div&gt;Conservation scores,&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="110" y="370" as="geometry" />
         </mxCell>
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Surface Accessibility,&lt;div&gt;Network features&lt;/div&gt;&lt;div&gt;Hydrogen bonding&lt;/div&gt;&lt;div&gt;Stability features&lt;/div&gt;" vertex="1">
