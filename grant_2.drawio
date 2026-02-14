@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.3.4">
   <diagram name="Page-1" id="Oq2a7AypvijyXSnl-6z8">
-    <mxGraphModel dx="1198" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-35" edge="1" parent="1" source="VJQFuuiHGWi6PAnYzEHb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VJQFuuiHGWi6PAnYzEHb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJQFuuiHGWi6PAnYzEHb-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Mutations corresponding to Specific cancer types/ Intrinsically Disordered proteins&amp;nbsp;" vertex="1">
-          <mxGeometry height="50" width="390" x="190" y="230" as="geometry" />
+        <mxCell id="VJQFuuiHGWi6PAnYzEHb-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Mutations corresponding to Specific cancer types/rare cancers Intrinsically Disordered proteins/regions&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="440" x="190" y="230" as="geometry" />
         </mxCell>
         <mxCell id="VJQFuuiHGWi6PAnYzEHb-41" edge="1" parent="1" source="VJQFuuiHGWi6PAnYzEHb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VJQFuuiHGWi6PAnYzEHb-23" value="">
           <mxGeometry relative="1" as="geometry" />
