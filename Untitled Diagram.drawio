@@ -4,14 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-32" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="369.96000000000004" y="195" as="sourcePoint" />
-            <mxPoint x="443" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-62" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group;" value="" vertex="1">
-          <mxGeometry height="1170" width="854" x="-20" y="10" as="geometry" />
+          <mxGeometry height="1170" width="854" x="-506" y="10" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Dataset Preparation" vertex="1">
           <mxGeometry height="39.47262711864407" width="308.67469879518075" x="37.037951807228914" y="192.4928813559322" as="geometry" />
@@ -116,25 +110,49 @@
           <mxGeometry height="46.71" width="68.39" x="20" y="80" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-6" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="UniProtKB" vertex="1">
-          <mxGeometry height="40" width="68.39" x="190.4" as="geometry" />
+          <mxGeometry height="40" width="68.39" x="161.4" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-9" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="~5200 DBPs" vertex="1">
-          <mxGeometry height="30" width="60" x="159.19" y="40" as="geometry" />
+          <mxGeometry height="30" width="60" x="118.19" y="40" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-10" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;arrowWidth=0.24921923797626538;arrowSize=0.4666666666666667;" value="" vertex="1">
-          <mxGeometry height="30" width="16.01" x="213.99" y="40" as="geometry" />
+          <mxGeometry height="30" width="16.01" x="184.99" y="40" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-11" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.18199999999999933;arrowSize=0.3375;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="" vertex="1">
           <mxGeometry height="20" width="40" x="90" y="93.32" as="geometry" />
         </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-20" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;shadow=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1" value="&lt;span style=&quot;text-align: start; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;41436 mutations in 1870 DBPs&lt;/span&gt;&lt;span style=&quot;font-family: -webkit-standard; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.35" width="105.09" x="405.09000000000003" y="80" as="geometry" />
+        </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-19" connectable="0" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="group" value="" vertex="1">
           <mxGeometry height="64.66" width="145.08999999999997" x="314.91" y="68.34" as="geometry" />
         </mxCell>
-        <mxCell id="fgZwRoDIUpyNL4DwdV4d-17" parent="fgZwRoDIUpyNL4DwdV4d-19" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25.089999999999918;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
-          <mxGeometry height="63" width="145.09" x="-1" y="1.6599999999999966" as="geometry" />
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-21" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="genomAD" vertex="1">
+          <mxGeometry height="40" width="68.39" x="560" as="geometry" />
         </mxCell>
-        <mxCell id="fgZwRoDIUpyNL4DwdV4d-18" parent="fgZwRoDIUpyNL4DwdV4d-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=13;" value="Selecting Mutations occuring in atleast 3 samples" vertex="1">
-          <mxGeometry height="58.32" width="105" x="27.049999999999955" as="geometry" />
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-22" connectable="0" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="group" value="" vertex="1">
+          <mxGeometry height="64.66" width="170" x="640" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-27" connectable="0" parent="fgZwRoDIUpyNL4DwdV4d-22" style="group" value="" vertex="1">
+          <mxGeometry height="63" width="171" x="-124" y="1.66" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-23" parent="fgZwRoDIUpyNL4DwdV4d-27" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25.089999999999918;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
+          <mxGeometry height="63" width="171" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-24" parent="fgZwRoDIUpyNL4DwdV4d-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=13;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Removing mutations identified in population data&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="58.32" width="132.05" x="21.970000000000027" y="3.6800000000000033" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-25" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;arrowWidth=0.24921923797626538;arrowSize=0.4666666666666667;" value="" vertex="1">
+          <mxGeometry height="30" width="16.01" x="585.99" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-26" connectable="0" parent="c_vY_Ay8iBE_EW4T-Xc7-62" style="group" value="" vertex="1">
+          <mxGeometry height="64.66" width="145.09" x="260" y="70.99000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-17" parent="fgZwRoDIUpyNL4DwdV4d-26" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25.089999999999918;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
+          <mxGeometry height="63" width="145.09" y="1.6599999999999966" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-18" parent="fgZwRoDIUpyNL4DwdV4d-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=13;" value="Selecting Mutations occuring in atleast 3 samples" vertex="1">
+          <mxGeometry height="58.32" width="105" x="28.049999999999955" as="geometry" />
         </mxCell>
         <mxCell id="c_vY_Ay8iBE_EW4T-Xc7-109" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="760" width="396" x="4" y="390" as="geometry" />
