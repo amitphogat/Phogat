@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2011" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1833" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -463,7 +463,31 @@
           <mxGeometry height="300" width="716" x="-536" y="304" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-195" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;h1&gt;&lt;font&gt;B&lt;/font&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-520" y="330" as="geometry" />
+          <mxGeometry height="30" width="60" x="-532" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-198" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;fontStyle=1" value="Final Dataset" vertex="1">
+          <mxGeometry height="48" width="80" x="-532" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-201" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.18199999999999933;arrowSize=0.3375;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;rotation=-30;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="-455" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-202" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.18199999999999933;arrowSize=0.3375;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;rotation=30;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="-455" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-203" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1" value="Sequence based Features" vertex="1">
+          <mxGeometry height="20" width="163" x="-415" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-204" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1" value="Structure based Features" vertex="1">
+          <mxGeometry height="20" width="163" x="-413" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-205" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Conservation Scores&lt;div&gt;PSSM Profiles&lt;/div&gt;&lt;div&gt;Substitution Matrices&lt;/div&gt;&lt;div&gt;Disorder Scores&lt;/div&gt;&lt;div&gt;Physicochemical&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="163" x="-415" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-206" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 18.559999px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Solvent accessibility&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 18.559999px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;DSSP features&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 18.559999px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Mutation-induced structural changes&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 18.559999px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="163" x="-414" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-207" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" value="Feature Extraction" vertex="1">
+          <mxGeometry height="30" width="146.91" x="-406.91" y="437" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
