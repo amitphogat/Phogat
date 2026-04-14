@@ -73,7 +73,7 @@
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-131" connectable="0" parent="fgZwRoDIUpyNL4DwdV4d-137" style="group" value="" vertex="1">
           <mxGeometry height="70" width="68.39" x="553.44" as="geometry" />
         </mxCell>
-        <mxCell id="fgZwRoDIUpyNL4DwdV4d-21" parent="fgZwRoDIUpyNL4DwdV4d-131" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Times New Roman;" value="genomAD" vertex="1">
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-21" parent="fgZwRoDIUpyNL4DwdV4d-131" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Times New Roman;" value="gnomAD" vertex="1">
           <mxGeometry height="40" width="68.39" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-25" parent="fgZwRoDIUpyNL4DwdV4d-131" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;arrowWidth=0.24921923797626538;arrowSize=0.4666666666666667;fontFamily=Times New Roman;" value="" vertex="1">
@@ -219,8 +219,8 @@
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-237" edge="1" parent="fgZwRoDIUpyNL4DwdV4d-248" source="fgZwRoDIUpyNL4DwdV4d-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fgZwRoDIUpyNL4DwdV4d-227">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fgZwRoDIUpyNL4DwdV4d-222" parent="fgZwRoDIUpyNL4DwdV4d-248" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Blint Test" vertex="1">
-          <mxGeometry height="25" width="58.91" x="314" y="168.5" as="geometry" />
+        <mxCell id="fgZwRoDIUpyNL4DwdV4d-222" parent="fgZwRoDIUpyNL4DwdV4d-248" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Blind Test" vertex="1">
+          <mxGeometry height="25" width="62.91" x="310" y="168.5" as="geometry" />
         </mxCell>
         <mxCell id="fgZwRoDIUpyNL4DwdV4d-229" parent="fgZwRoDIUpyNL4DwdV4d-248" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" value="Model Comparison with existing methods" vertex="1">
           <mxGeometry height="25.5" width="240" x="396" y="255" as="geometry" />
